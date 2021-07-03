@@ -2,6 +2,8 @@
 
 I am Bhautik Poriya.
 
+      Android Developer | Flutter Developer | Wazirx Warrior | Stock Investor | Photographer
+
 - 🔭 I’m currently Studing Bachlore of Engineering in CSE Department. I have completed my 3rd year in Bachelor of Engineering and am in 4th year now.
       I completed my Diploma at Atmiya institute of technology and science for diploma studies in Rajkot. and now currently i'm studing my B.E. at Dr. Jivraj mehta institude
       of technology in Mogar, Vidhya Nagar

@@ -21,8 +21,8 @@ I am Bhautik Poriya.
 - 🌱 I’m currently learning Algorithms and Aptitude also Competitive Coding...
 
 - 📫 How to reach me: 
-      I share my social media platform:
-      Instagram: https://www.instagram.com/er.bhautik.poriya/
+      I share my social media platform: </br>
+      Instagram: https://www.instagram.com/er.bhautik.poriya/ </br>
       Twitter: https://twitter.com/PoriyaBhautik
  
 - ⚡ Fun fact: I Love Clicks Photographs...

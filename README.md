@@ -2,7 +2,7 @@
 
 I am Bhautik Poriya.
 
-      Android Developer | Flutter Developer | Wazirx Warrior | Stock Investor | Photographer
+      Android Developer | Flutter Developer | Wazirx Warrior | Stock Trader | Photographer
       
       
 <a href="https://www.linkedin.com/in/bhautik-poriya-525601150/" target="_blank">

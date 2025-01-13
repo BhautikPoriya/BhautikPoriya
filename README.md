@@ -88,3 +88,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BhautikPoriya&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/BhautikPoriya/BhautikPoriya/output/snake.svg" alt="Snake animation" />
+
+###
